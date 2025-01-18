@@ -4,6 +4,6 @@
 
 - **[FIGMA UI/UX DESIGN](https://www.uistore.design/items/open-fashion-free-ecommerce-ui-kit/)**
 
-## The technologies used in this project.
+## The technologies used in this project
 
 - **Tailwind CSS** (V 3.4.17)
