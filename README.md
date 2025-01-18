@@ -4,6 +4,6 @@
 
 - **[FIGMA UI/UX DESIGN](https://www.figma.com/community/file/1093372331682706566)**
 
-## The technologies used in this project
+## The technologies used in this project.
 
 - **Tailwind CSS** (V 3.4.17)
